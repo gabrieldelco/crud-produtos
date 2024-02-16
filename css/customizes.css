@@ -1,0 +1,25 @@
+.w3-theme {
+    color: #ffff !important;
+    background-color: #617e5d !important
+}
+
+.w3-code {
+    border-left: 4px solid #9fe8a7
+}
+
+.w3-text-IE {
+    color:#385538!important
+}
+
+.myMenu {
+    margin-bottom: 150px
+}
+
+#Imagem {
+    display: none
+}
+
+#imagemSelecionada {
+    width: 20%;
+    height: auto;
+}
